@@ -1,0 +1,13 @@
+{
+    "name": "EtherFact",
+    "version": "3.10.2.6",
+    "description": "An NPM dist of EtherFact. For easier downloading & updating via CLI.",
+    "author": "EtherFact",
+    "license": "ISC",
+    "devDependencies": {
+        "open": "0.0.5"
+    },
+    "bin": {
+        "mew": "bin/startMEW.js"
+    }
+}
