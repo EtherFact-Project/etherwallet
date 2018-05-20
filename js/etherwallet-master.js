@@ -5959,7 +5959,7 @@ nodes.nodeList = {
         'abiList': [],
         'estimateGas': true,
         'service': 'etherfact.org',
-        'lib': new nodes.customNode('https://rpc.etherfact.org', '443')
+        'lib': new nodes.customNode('https://rpc.etherfact.org/', '')
     },
 };
 
